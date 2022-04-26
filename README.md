@@ -1,5 +1,5 @@
 # password-manager
-manages passwords, will update soon.
+manages passwords securely by encryption, will update soon.
 
 this uses cryptography-fernet to encrypt and decrypt passwords with a .key file.
 i also use colorama to make the program look nicer.
